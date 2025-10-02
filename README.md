@@ -1,7 +1,7 @@
 # drill-baby-drill
 repo for the poker drill player i am working on.
 I have my personally crappy drill replayer which requires you to launch http server and has a comically bad data storage system, so i decided that since i made DP:FE with export drill function public, I'll
-make a tauri remake of that drill replayer too, with better interface, more feature and other stuff. It will support the drill exports from DP:FE (the dpfe part of the equasion will also be modified for
+make a vue-tauri remake of that drill replayer too, with better interface, more feature and other stuff. It will support the drill exports from DP:FE (the dpfe part of the equasion will also be modified for
 more stuff).
 
 Stuff I'm planning to transfer from my personal drill player:
