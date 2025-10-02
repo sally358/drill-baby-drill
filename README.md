@@ -7,7 +7,7 @@ more stuff).
 Stuff I'm planning to transfer from my personal drill player:
 * Preflop drill player (does not support subsequent postflop scenarios, these two are completely separate entities).
 * Postflop drill player.
-* Preflop drill creator (the only way you can get preflop drills currently, as we don't have a preflop solver here) including a scenario player and .
+* Preflop drill creator (the only way you can get preflop drills currently, as we don't have a preflop solver here) including a scenario player and a range editor.
 
 There is no postflop drill creator, as postflop drills are far too complex to be created manually. You still can import DP:FE drills though just fine.
 
