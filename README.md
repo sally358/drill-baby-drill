@@ -18,25 +18,25 @@ Hello, everyone! It’s me, Gem Gemson, everyone's favorite PRO here at the eter
 
 Get ready to experience the raw, unbridled power of "Drill, baby, drill!"—the app!
 
-Introducing: "Drill, baby, drill!" (The Application)
+### Introducing: "Drill, baby, drill!" (The Application)
 That’s right! The phrase we shouted when we launched the first export drills is now an entirely new application, and it is everything the name suggests: a dedicated, relentless tool for deep, analytical excavation.
 
 This app is the ultimate sequel to our existing functionality, transforming data peeking into full-scale digital mining. You will now be able to drill some pres and even some posts—penetrating layers of information you previously only dreamed of accessing. If your data has a past or a future, you can now drill right into it!
 
-Total Integration and Enhanced Drilling
+### Total Integration and Enhanced Drilling
 The best part? "Drill, baby, drill!" will be fully integrated with the "export drills" feature you already know and love in the main DP:FE application.
 
 We’re not just releasing a new tool; we’re fundamentally reworking and updating the entire DP:FE drilling experience! The existing feature will be massively upgraded, allowing you to:
 
-Drill More Info: Access deeper sub-layers of data than ever before.
+* Drill More Info: Access deeper sub-layers of data than ever before.
 
-Peek into the Drilling Tables: Get a literal look under the hood at the raw data structures driving your analysis.
+* Peek into the Drilling Tables: Get a literal look under the hood at the raw data structures driving your analysis.
 
-View Global Percentages: Contextualize your local drill with broad, high-level metrics.
+* View Global Percentages: Contextualize your local drill with broad, high-level metrics.
 
 Your data is about to give up all its secrets, and this app is the master key!
 
-The Auditory Delight of Failure
+### The Auditory Delight of Failure
 And finally, for a touch of classic DP:FE flair, Sally358 has built in a feature that is both hilarious and mildly embarrassing: Failure Feedback!
 
 If, and only if, you fail to execute a drill correctly (perhaps a typo in a parameter or a truly tragic miscalculation), the "Drill, baby, drill!" app will be able to toggle funny vocoded meme sounds! Yes, your mistakes will now be greeted with the digital jeer of a robotic voice, ensuring you learn your lesson and get a giggle.
