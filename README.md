@@ -3,6 +3,7 @@ repo for the poker drill player i am working on.
 I have my personally crappy drill replayer which requires you to launch http server and has a comically bad data storage system, so i decided that since i made DP:FE with export drill function public, I'll
 make a vue-tauri remake of that drill replayer too, with better interface, more feature and other stuff. It will support the drill exports from DP:FE (the dpfe part of the equation will also be modified with
 more stuff).
+Also my personal drill replayer is just barely usable total garbage that requires a lot of unnecessary movement, it was about time I made something more usable.
 
 Stuff I'm planning to transfer from my personal drill player:
 * Preflop drill player (does not support subsequent postflop scenarios, these two are completely separate entities).
