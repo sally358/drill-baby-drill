@@ -13,7 +13,7 @@ There is no postflop drill creator, as postflop drills are far too complex to be
 
 
 # Gem Gemson announcement
-###Prepare for the Ultimate Excavation!
+### Prepare for the Ultimate Excavation!
 Hello, everyone! It’s me, Gem Gemson, everyone's favorite PRO here at the eternally innovating, multi-quadrillion dollar data deity, DP:FE Inc. Gather 'round, put on your hard hats, and prepare your seismic sensors, because the ground is about to shake with a brand new application from the mind of our peerless CEO, Sally358!
 
 Get ready to experience the raw, unbridled power of "Drill, baby, drill!"—the app!
